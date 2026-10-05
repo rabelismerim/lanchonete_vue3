@@ -35,7 +35,7 @@ As capturas mostram o cardápio, a revisão do pedido e a confirmação:
 .
 ├── docs/
 │   └── screenshots/
-├── Project 1 - Vue 3/
+├── lanchonete - vue3/
 │   ├── public/img/              # Imagens dos produtos
 │   ├── src/
 │   │   ├── assets/styles.css
@@ -57,7 +57,7 @@ As capturas mostram o cardápio, a revisão do pedido e a confirmação:
 É necessário ter Node.js e npm instalados.
 
 ```powershell
-cd "Project 1 - Vue 3"
+cd "lanchonete - vue3"
 npm install
 npm run dev
 ```
